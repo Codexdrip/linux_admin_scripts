@@ -6,5 +6,6 @@ in a web browser (firefox) for easy viewing or sending emails.
 
 Directions:
 * Important * if you do not have firefox installed, this script won't work. It is dependent on a web browser to run.
-1) Run the setup script
-2) type 'system_checker.sh' into the cli.
+1) make the setup script executable.
+2) Run the setup script.
+3) type 'system_checker.sh' into the cli.
